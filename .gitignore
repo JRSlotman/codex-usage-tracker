@@ -1,0 +1,8 @@
+# Local usage snapshots and diagnostics
+*.csv
+*.log
+
+# Local environment configuration and secrets
+.env
+.env.*
+!.env.example
